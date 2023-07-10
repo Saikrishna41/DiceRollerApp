@@ -1,4 +1,4 @@
 # DiceRollerApp
 
-##Tech Stack
-####Kotlin
+## Tech Stack
+#### Kotlin
