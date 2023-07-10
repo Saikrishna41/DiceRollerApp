@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DiceRollerApp</string>
     <string name="hello">Hello World!</string>
+    <string name="hello_android">Hello Android!</string>
 </resources>

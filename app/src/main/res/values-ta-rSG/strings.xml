@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">பகடை உருளை செயலி</string>
     <string name="hello">வணக்கம் உலகம்</string>
+    <string name="hello_android">வணக்கம் உலகம்!!!</string>
 </resources>
