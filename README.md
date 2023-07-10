@@ -1,1 +1,4 @@
 # DiceRollerApp
+
+##Tech Stack
+####Kotlin
